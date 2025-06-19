@@ -1,4 +1,3 @@
-# Educational Quiz App
 
 ![Educational Quiz App](https://dummyimage.com/800x100/963CE1/FFFFFF?text=Educational+Quiz+App)
 
